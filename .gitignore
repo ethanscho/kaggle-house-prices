@@ -1,0 +1,5 @@
+
+*.csv
+input/data_description.txt
+input/.ipynb_checkpoints/description-checkpoint.txt
+input/.ipynb_checkpoints/data_description-checkpoint.txt
