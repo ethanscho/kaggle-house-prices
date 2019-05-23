@@ -1,0 +1,28 @@
+v0.2
+Data
+- 'LotArea', 'OverallQual', 'YearBuilt', 'TotRmsAbvGrd'
+- y 값을 log transform
+Model
+- Random Forest regression
+Score
+- 0.18907 (3781 rank)
+
+v0.3
+Data
+- 모든 quantitative feature
+Model
+- Random Forest regression
+Score
+- 0.15692 (3226 rank)
+Etc.
+- baseline-2.ipynb
+
+v0.4
+Data
+- 모든 quantitative feature 중 일부 normalization
+Model
+- Random Forest regression
+Score
+- 0.16496
+Etc.
+- baseline-3.ipynb
